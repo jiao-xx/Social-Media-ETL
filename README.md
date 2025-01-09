@@ -1,4 +1,4 @@
-# Project Title: Social Media Scraper for Reddit and Red
+# Project Title: Social Media Scraper for Reddit and Red (With Image)
 
 ## Overview
 This project involves building a robust social media scraper to collect and analyze data from platforms like Reddit and Red using Google Cloud Platform (GCP). The scraped data is processed and stored for further analysis, with visual insights generated using Looker Studio. The scraper successfully collects posts, comments, and images from both platforms.
